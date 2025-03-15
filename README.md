@@ -1,0 +1,2 @@
+# Project-Illustra---Universal-Data-Visualization-and-Analytics-Tool
+Illustra is a universal data visualization and analytics tool built with Streamlit, enabling seamless data ingestion, cleaning, EDA, visualization, encoding (Label &amp; One-Hot), and model evaluation. It integrates DeepSeek AI for automated model selection and bias reduction, making data analysis intuitive and efficient for all users.
